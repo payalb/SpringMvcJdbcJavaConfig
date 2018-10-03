@@ -1,7 +1,0 @@
-com\java\controller\StudentControllerOne.class
-com\java\service\StudentService.class
-com\java\controller\StudentController.class
-com\java\repository\StudentRepositoryImpl.class
-com\java\service\StudentServiceImpl.class
-com\java\repository\StudentRepository.class
-com\java\dto\Student.class
